@@ -1,0 +1,1 @@
+-- Step 1: Data Warehouse - Create star schema tables
